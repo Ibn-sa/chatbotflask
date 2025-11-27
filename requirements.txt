@@ -1,2 +1,4 @@
 flask==2.3.3
 streamlit==1.26.0
+pillow>=9.5.0,<10
+numpy==1.26.4
